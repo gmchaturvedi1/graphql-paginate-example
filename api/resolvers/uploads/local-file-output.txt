@@ -1,0 +1,16 @@
+﻿ID,First Name,Last Name,Email,Price,Quantity,Total Spend
+69656,Matt,Jackson,Matt.Jackson.6352@gmail.com,0.71,64,45.44
+72776,Ann,Chen,Ann.Chen.4567@gmail.com,89.62,31,2778.22
+851058,Ann,Williams,Ann.Williams.3942@gmail.com,5.02,10,50.2
+83944,George,Peterson,George.Peterson.1466@gmail.com,4.36,8,34.88
+19112,George,Williams,George.Williams.4842@gmail.com,25.92,81,2099.52
+12280,Sam,Lee,Sam.Lee.674@gmail.com,5.58,75,418.5
+92472,Ann,Jackson,Ann.Jackson.2708@gmail.com,15.97,17,271.49
+159107,Matt,Peterson,Matt.Peterson.406@gmail.com,95.94,96,9210.24
+91716,Ann,Jackson,Ann.Jackson.4620@gmail.com,94.56,54,5106.24
+53129,Ann,Williams,Ann.Williams.5131@gmail.com,96.96,54,5235.84
+38479,Matt,Williams,Matt.Williams.5693@gmail.com,80.44,80,6435.2
+62959,George,Jackson,George.Jackson.5488@gmail.com,38.69,68,2630.92
+18972,Matt,Williams,Matt.Williams.1606@gmail.com,26.55,77,2044.35
+85546,Sam,Peterson,Sam.Peterson.6347@gmail.com,40.19,25,1004.75
+75182,Ann,Williams,Ann.Williams.8266@gmail.com,38.39,85,3263.15
